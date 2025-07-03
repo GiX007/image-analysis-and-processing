@@ -30,3 +30,6 @@ Key steps:
 - Training and evaluation with accuracy, precision, recall, confusion matrix
 - Model comparison with visual insights and performance metrics
 
+### 3. `pneumonia_detection_with_CNN_and_VGG.ipynb`
+A fast, end-to-end pneumonia detection pipeline using a **custom CNN** and **VGG16**, covering exploration and preprocessing of the dataset, training, evaluation, and prediction in a compact, 40-cell format.
+
