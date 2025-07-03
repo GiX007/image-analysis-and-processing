@@ -14,6 +14,8 @@ Explore core image processing operations using OpenCV:
 - Image sharpening and spatial enhancement
 - Edge & corner detection
 - Angle estimation and synthetic image generation
+  
+Uses images from the `data/` folder. 
 
 Each section includes input/output images, clean Python code and step-by-step explanations (what, why, how).
 
@@ -28,4 +30,3 @@ Key steps:
 - Training and evaluation with accuracy, precision, recall, confusion matrix
 - Model comparison with visual insights and performance metrics
 
----
