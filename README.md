@@ -1,8 +1,8 @@
-# image-analysis-and-processing
+# Image Analysis and Processing
 
-## About
+This repository provides an introduction to image analysis and processing, combining classical techniques with modern machine learning and deep learning approaches. 
 
-This repository offers a hands-on introduction to image analysis and processing, combining classical techniques with modern machine learning and deep learning approaches.
+---
 
 ## Contents
 
@@ -16,8 +16,6 @@ Explore core image processing operations using OpenCV:
 - Angle estimation and synthetic image generation
   
 Uses images from the `data/` folder. 
-
-Each section includes input/output images, clean Python code and step-by-step explanations (what, why, how).
 
 ### 2. `learning_based_pneumonia_detection.ipynb`
 Detect pneumonia in chest X-ray images using both ML and DL techniques:
@@ -33,3 +31,4 @@ Key steps:
 ### 3. `pneumonia_detection_with_CNN_and_VGG.ipynb`
 A fast, end-to-end pneumonia detection pipeline using a **custom CNN** and **VGG16**, covering exploration and preprocessing of the dataset, training, evaluation, and prediction in a compact, 40-cell format.
 
+The notebooks combine clear explanations, input/output image examples, and practical experiments to help you understand both **foundational image processing** and **modern ML/DL applications**.
